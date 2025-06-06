@@ -1,0 +1,118 @@
+Je m'appelle Raden Gumilar Riyansyah
+Bonjour
+Comment allez-vous ?
+Je vais bien, merci
+Comment vous appelez-vous ?
+Je m'appelle John
+Enchanté
+Bonjour
+Bon après-midi
+Bonsoir
+Bonne nuit
+Au revoir
+À plus tard
+À demain
+Passez une bonne journée
+S'il vous plaît
+Merci
+De rien
+Excusez-moi
+Je suis désolé
+Oui
+Non
+Peut-être
+Je ne sais pas
+Pouvez-vous m'aider ?
+Où sont les toilettes ?
+Combien ça coûte ?
+Je voudrais
+Parlez-vous anglais ?
+Je ne parle pas français
+Un peu
+Je comprends
+Je ne comprends pas
+Répétez, s'il vous plaît
+Lentement, s'il vous plaît
+Écrivez-le, s'il vous plaît
+Quelle heure est-il ?
+Qu'est-ce que c'est ?
+Comment puis-je aller à?
+Tournez à gauche
+Tournez à droite
+Allez tout droit
+Arrêtez
+Ici
+Là-bas
+Aujourd'hui
+Hier
+Demain
+Maintenant
+Plus tard
+Matin
+Après-midi
+Soir
+Nuit
+Petit-déjeuner
+Déjeuner
+Dîner
+Eau
+Café
+Thé
+Lait
+Pain
+Fromage
+Viande
+Poisson
+Légumes
+Fruit
+Sel
+Poivre
+Sucre
+L'addition, s'il vous plaît
+Un
+Deux
+Trois
+Quatre
+Cinq
+Six
+Sept
+Huit
+Neuf
+Dix
+Cent
+Mille
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Dimanche
+Printemps
+Été
+Automne
+Hiver
+Chaud
+Froid
+Grand
+Petit
+Bon
+Mauvais
+Heureux
+Triste
+Affamé
+Assoiffé
+Fatigué
+Où est le restaurant le plus proche ?
+Puis-je avoir le menu, s'il vous plaît ?
+Je voudrais réserver une table pour deux
+Quel est votre numéro de téléphone ?
+Pourriez-vous épeler cela, s'il vous plaît ?
+J'ai besoin d'un médecin
+C'est une urgence
+Appelez la police
+Où est l'hôpital ?
+Je suis perdu
+Puis-je payer par carte ?
+Avez-vous le Wi-Fi ?
+Quel est le mot de passe ?
